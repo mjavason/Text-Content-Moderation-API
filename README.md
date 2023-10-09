@@ -51,17 +51,12 @@ The API will be accessible at `http://localhost:5000` by default.
 Before running the API, ensure you have set up the following environment variables in your `.env` file:
 
 ```env
-ACCESS_TOKEN_SECRET=your-access-token-secret
 API_DOCUMENTATION_URL=doc.xxx.com
-APP_NAME=TextModeratorApp
-JWT_SECRET=user
+APP_NAME = TemplateApp
 MAIL_ADDRESS=xxxx@mail.com
 MAIL_PASSWORD=xxxx
-MONGODB_URL=xxxx
-MONGO_DB_NAME=xxxx
-REFRESH_TOKEN_SECRET=xxxx
 SITE_LINK=xxxx
-USERNAME=user@mail.com
+USERNAME =  user@mail.com
 ```
 
 Replace the placeholders with your actual secret keys, URLs, and credentials.
