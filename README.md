@@ -1,6 +1,6 @@
 # Text Content Moderation API
 
-A robust API for real-time text content moderation, ensuring a safe and positive user experience. Easily monitor and rate text for spam, hate speech, profanity, and sentiment using natural language processing (NLP). The API is live at [Text Content Moderation](https://text-content-moderation.onrender.com).
+A robust API for real-time text content moderation, ensuring a safe and positive user experience. Easily monitor and rate text for hate speech, profanity, and sentiment using natural language processing (NLP). The API is live at [Text Content Moderation](https://text-content-moderation.onrender.com).
 
 ## Overview
 
