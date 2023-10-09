@@ -40,7 +40,7 @@ The API will be accessible at `http://localhost:5000` by default.
 
 ## Features
 
-- **Text Content Analysis**: Monitor and rate text content for spam, hate speech, profanity, and sentiment.
+- **Text Content Analysis**: Monitor and rate text content for hate speech, profanity, and sentiment.
   
 - **Real-Time Moderation**: Analyze text in real-time, providing instant feedback and categorization.
 
