@@ -44,8 +44,6 @@ The API will be accessible at `http://localhost:5000` by default.
   
 - **Real-Time Moderation**: Analyze text in real-time, providing instant feedback and categorization.
 
-- **Configurable Thresholds**: Customize moderation thresholds to suit your content standards.
-
 ## Environment Variables
 
 Before running the API, ensure you have set up the following environment variables in your `.env` file:
